@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="lib" path="D:/sofrs/JFormDesigner-5.2.0.3-eclipse.zip"/>
+	<classpathentry exported="true" kind="lib" path="D:/sofrs/JFormDesigner-5.2.0.3-eclipse-site.zip"/>
+	<classpathentry exported="true" kind="lib" path="D:/sofrs/semantics.zip"/>
+	<classpathentry exported="true" kind="lib" path="D:/sofrs/ws4j-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Program Files/eclipse_jee_luna/jwnl14-rc2/jwnl.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Program Files/eclipse_jee_luna/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Program Files/eclipse_jee_luna/stanford-postagger-full-2014-10-26/stanford-postagger.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/Program Files/eclipse_jee_luna/jwnl14-rc2/lib/commons-logging.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
